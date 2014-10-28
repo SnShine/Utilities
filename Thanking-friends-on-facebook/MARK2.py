@@ -18,7 +18,7 @@ for a in range (0,500):
     post = feed["data"][a]
     time = post["created_time"]
     if time[0:10] == "2014-10-28":               #date of the post you wanted to comment on, 
-		fromDetails = (post["from"])       		 #usually your birthday in this format yyyy-mm-dd
+	fromDetails = (post["from"])       	 #usually your birthday in this format yyyy-mm-dd
     	fromName = fromDetails["name"]           #name of friend who has posted
     	graph.put_like(post["id"])
     	print ("liked "+fromName+"'s post")		 #like that post
