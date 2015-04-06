@@ -1,5 +1,4 @@
-Thanking-friends-on-facebook
-============================
+##Thanking-friends-on-facebook
 
 Ever thanked your facebook friends when they wished you on your birthday?
 Yeah I know it's a hell lot of work, particularly when, like, hundreds of friends posted on your timeline. 
