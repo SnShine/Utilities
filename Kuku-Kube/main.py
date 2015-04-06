@@ -64,7 +64,7 @@ for i in range(370):
 		row= press/side + 1
 		colomn= press%side
 
-	print("row: "+ str(row)+ "; colomn: "+ str(colomn))
+	print("row: "+ str(row)+ "; column: "+ str(colomn))
 
 	temp= 698- 192
 	temp = temp/ side
