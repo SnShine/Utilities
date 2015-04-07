@@ -1,4 +1,3 @@
-from selenium import webdriver
 from pymouse import PyMouse
 from pykeyboard import PyKeyboard
 import pyperclip
@@ -7,19 +6,18 @@ import time, math
 m= PyMouse()
 k= PyKeyboard()
 
+# These positions are based on my machine and you may need to 
+# change these values as for your requirements. The code is self-explanatory.
+
 # m.move(335, 580)		#when start button is located below
 # m.move(335, 400)		#when start button is above
 
 # m.move(620, 360)		#to copy inspect element
 
-# m.move(76, 400)		#left bordor
-# m.move(580,400)		#right bordor
-# m.move(400, 192)		#top bordor
-# m.move(400, 698)		#bottom bordor
-
-# m.click(335, 580)		#start game
-# print("The game's ON!")
-# time.sleep(0.1)
+# m.move(76, 400)		#left border
+# m.move(580,400)		#right border
+# m.move(400, 192)		#top border
+# m.move(400, 698)		#bottom border
 
 for i in range(370):
 	
