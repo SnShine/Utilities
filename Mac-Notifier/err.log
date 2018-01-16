@@ -1,0 +1,569 @@
+[000000010022dce8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[00000001002aab48] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100511ea8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100527898] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+sh: -c: line 0: unexpected EOF while looking for matching `"'
+sh: -c: line 1: syntax error: unexpected end of file
+[000000010022c7e8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100506b08] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x10087b600] mmco: unref short failure
+[h264 @ 0x10087b600] number of reference frames (0+13) exceeds max (12; probably corrupt input), discarding one
+[h264 @ 0x1008e2600] reference picture missing during reorder
+[h264 @ 0x1008e2600] reference picture missing during reorder
+[h264 @ 0x1008e2600] reference picture missing during reorder
+[h264 @ 0x1008e2600] reference picture missing during reorder
+[h264 @ 0x1008e2600] reference picture missing during reorder
+[h264 @ 0x1008e2600] Missing reference picture, default is 65486
+[h264 @ 0x1008e2600] Missing reference picture, default is 65486
+[h264 @ 0x1008e2600] Missing reference picture, default is 65486
+[h264 @ 0x1008e2600] Missing reference picture, default is 65486
+[h264 @ 0x1008e2600] Missing reference picture, default is 65486
+[h264 @ 0x100892200] mmco: unref short failure
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x100877600] Missing reference picture, default is 22
+[h264 @ 0x10087b600] mmco: unref short failure
+[h264 @ 0x10087b600] number of reference frames (0+13) exceeds max (12; probably corrupt input), discarding one
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] reference picture missing during reorder
+[h264 @ 0x100877600] Missing reference picture, default is 65486
+[h264 @ 0x100877600] Missing reference picture, default is 65486
+[h264 @ 0x100877600] Missing reference picture, default is 65486
+[h264 @ 0x100877600] Missing reference picture, default is 65486
+[h264 @ 0x10087b600] mmco: unref short failure
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] Missing reference picture, default is 22
+[h264 @ 0x100892200] Missing reference picture, default is 22
+[h264 @ 0x100892200] Missing reference picture, default is 22
+[h264 @ 0x100892200] Missing reference picture, default is 22
+[h264 @ 0x100892200] Missing reference picture, default is 22
+[h264 @ 0x1008e2600] mmco: unref short failure
+[h264 @ 0x1008e2600] number of reference frames (0+13) exceeds max (12; probably corrupt input), discarding one
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] reference picture missing during reorder
+[h264 @ 0x100892200] Missing reference picture, default is 65492
+[h264 @ 0x100892200] Missing reference picture, default is 65492
+[h264 @ 0x100892200] Missing reference picture, default is 65492
+[h264 @ 0x100892200] Missing reference picture, default is 65492
+[h264 @ 0x100892200] Missing reference picture, default is 65492
+[h264 @ 0x100877600] mmco: unref short failure
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001008776b8] dts decoder: DTS channels:6 samplerate:48000 bitrate:1536000
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Stream with high frequencies VQ coding
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[000000010050d9d8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010027a0d8] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001021676b8] dts decoder: DTS channels:6 samplerate:48000 bitrate:1536000
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Stream with high frequencies VQ coding
+[00000001002305b8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100601758] core playlist: stopping playback
+[000000010056efe8] macosx vout display error: no OpenGL hardware acceleration found. this can lead to slow output and unexpected results
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+sh: -c: line 0: unexpected EOF while looking for matching `"'
+sh: -c: line 1: syntax error: unexpected end of file
+[000000010030c158] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010022fa48] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001005210b8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010052e7e8] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100230488] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010025d3f8] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100223f78] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010056b468] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100210e48] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100251a28] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001007785c8] core access error: cannot resolve services.tvrage.com port 80 : nodename nor servname provided, or not known
+[00000001007785c8] http access error: cannot connect to services.tvrage.com:80
+[00000001007785c8] core access error: cannot resolve services.tvrage.com port 80 : nodename nor servname provided, or not known
+[00000001007785c8] access_mms access error: cannot connect to services.tvrage.com:80
+[000000011509f358] core art finder error: no suitable access module for `http://services.tvrage.com/feeds/search.php?show=Suits'
+sh: -c: line 0: unexpected EOF while looking for matching `"'
+sh: -c: line 1: syntax error: unexpected end of file
+[000000010021ad28] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100257028] core playlist: stopping playback
+[00000001010daeb8] dts decoder: DTS channels:6 samplerate:48000 bitrate:1536000
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Stream with high frequencies VQ coding
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x100889800] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1009a9400] Missing reference picture, default is 8
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1008a0400] Missing reference picture, default is 6
+[h264 @ 0x1020a9000] mmco: unref short failure
+[h264 @ 0x1020a9000] Missing reference picture, default is 6
+[h264 @ 0x1020a9000] Missing reference picture, default is 6
+[h264 @ 0x1020a9000] Missing reference picture, default is 6
+[h264 @ 0x1020a9000] Missing reference picture, default is 6
+[h264 @ 0x100889800] Missing reference picture, default is 65572
+[h264 @ 0x100889800] Missing reference picture, default is 65572
+[h264 @ 0x100889800] Missing reference picture, default is 65572
+[h264 @ 0x100889800] Missing reference picture, default is 65572
+[h264 @ 0x100889800] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] reference picture missing during reorder
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1009a9400] Missing reference picture, default is 65572
+[h264 @ 0x1008a0400] Missing reference picture, default is 65576
+[h264 @ 0x1008a0400] Missing reference picture, default is 65576
+[h264 @ 0x1008a0400] Missing reference picture, default is 65576
+[h264 @ 0x1008a0400] Missing reference picture, default is 65576
+[h264 @ 0x1008a0400] Missing reference picture, default is 65576
+[h264 @ 0x1020a9000] mmco: unref short failure
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] Missing reference picture, default is 22
+[h264 @ 0x100889800] Missing reference picture, default is 22
+[h264 @ 0x100889800] Missing reference picture, default is 22
+[h264 @ 0x100889800] Missing reference picture, default is 22
+[h264 @ 0x100889800] Missing reference picture, default is 22
+[h264 @ 0x1008a0400] mmco: unref short failure
+[h264 @ 0x1008a0400] number of reference frames (0+13) exceeds max (12; probably corrupt input), discarding one
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] Missing reference picture, default is 65528
+[h264 @ 0x100889800] Missing reference picture, default is 65528
+[h264 @ 0x100889800] Missing reference picture, default is 65528
+[h264 @ 0x100889800] Missing reference picture, default is 65528
+[h264 @ 0x100889800] Missing reference picture, default is 65528
+[h264 @ 0x1008a0400] mmco: unref short failure
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] Missing reference picture, default is 65536
+[h264 @ 0x100889800] Missing reference picture, default is 65536
+[h264 @ 0x100889800] Missing reference picture, default is 65536
+[h264 @ 0x100889800] Missing reference picture, default is 65536
+[h264 @ 0x100889800] Missing reference picture, default is 65536
+[h264 @ 0x1009a9400] Missing reference picture, default is 65540
+[h264 @ 0x1008a0400] mmco: unref short failure
+[h264 @ 0x1020a9000] Missing reference picture, default is 65544
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] Missing reference picture, default is 65544
+[h264 @ 0x100889800] Missing reference picture, default is 65544
+[h264 @ 0x100889800] Missing reference picture, default is 65544
+[h264 @ 0x100889800] Missing reference picture, default is 65544
+[h264 @ 0x100889800] Missing reference picture, default is 65544
+[h264 @ 0x1009a9400] Missing reference picture, default is 65548
+[h264 @ 0x1009a9400] Missing reference picture, default is 65548
+[h264 @ 0x1008a0400] mmco: unref short failure
+[h264 @ 0x1008a0400] Missing reference picture, default is 65548
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] Missing reference picture, default is 65552
+[h264 @ 0x1020a9000] Missing reference picture, default is 65552
+[h264 @ 0x1020a9000] Missing reference picture, default is 65552
+[h264 @ 0x1020a9000] Missing reference picture, default is 65552
+[h264 @ 0x1020a9000] Missing reference picture, default is 65552
+[h264 @ 0x100889800] Missing reference picture, default is 65554
+[h264 @ 0x100889800] Missing reference picture, default is 65554
+[h264 @ 0x100889800] Missing reference picture, default is 65554
+[h264 @ 0x1009a9400] mmco: unref short failure
+[h264 @ 0x1009a9400] Missing reference picture, default is 65554
+[h264 @ 0x1009a9400] Missing reference picture, default is 65554
+[h264 @ 0x1008a0400] Missing reference picture, default is 65558
+[h264 @ 0x1008a0400] Missing reference picture, default is 65558
+[h264 @ 0x1008a0400] Missing reference picture, default is 65558
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] Missing reference picture, default is 65558
+[h264 @ 0x1020a9000] Missing reference picture, default is 65558
+[h264 @ 0x1020a9000] Missing reference picture, default is 65558
+[h264 @ 0x1020a9000] Missing reference picture, default is 65558
+[h264 @ 0x1020a9000] Missing reference picture, default is 65558
+[h264 @ 0x100889800] Missing reference picture, default is 65562
+[h264 @ 0x100889800] Missing reference picture, default is 65562
+[h264 @ 0x100889800] Missing reference picture, default is 65562
+[h264 @ 0x100889800] Missing reference picture, default is 65562
+[h264 @ 0x1009a9400] mmco: unref short failure
+[h264 @ 0x1009a9400] Missing reference picture, default is 65562
+[h264 @ 0x1009a9400] Missing reference picture, default is 65562
+[h264 @ 0x1009a9400] Missing reference picture, default is 65562
+[h264 @ 0x1008a0400] Missing reference picture, default is 65566
+[h264 @ 0x1008a0400] Missing reference picture, default is 65566
+[h264 @ 0x1008a0400] Missing reference picture, default is 65566
+[h264 @ 0x1008a0400] Missing reference picture, default is 65566
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] reference picture missing during reorder
+[h264 @ 0x1020a9000] Missing reference picture, default is 65566
+[h264 @ 0x1020a9000] Missing reference picture, default is 65566
+[h264 @ 0x1020a9000] Missing reference picture, default is 65566
+[h264 @ 0x1020a9000] Missing reference picture, default is 65566
+[h264 @ 0x1020a9000] Missing reference picture, default is 65566
+[h264 @ 0x100889800] Missing reference picture, default is 65570
+[h264 @ 0x100889800] Missing reference picture, default is 65570
+[h264 @ 0x100889800] Missing reference picture, default is 65570
+[h264 @ 0x100889800] Missing reference picture, default is 65570
+[h264 @ 0x1009a9400] mmco: unref short failure
+[h264 @ 0x1009a9400] Missing reference picture, default is 65570
+[h264 @ 0x1009a9400] Missing reference picture, default is 65570
+[h264 @ 0x1008a0400] Missing reference picture, default is 65570
+[h264 @ 0x1008a0400] Missing reference picture, default is 65570
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x1020a9000] Missing reference picture, default is 65576
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] reference picture missing during reorder
+[h264 @ 0x100889800] Missing reference picture, default is 65576
+[h264 @ 0x100889800] Missing reference picture, default is 65576
+[h264 @ 0x100889800] Missing reference picture, default is 65576
+[h264 @ 0x100889800] Missing reference picture, default is 65576
+[h264 @ 0x1009a9400] Missing reference picture, default is 65580
+[h264 @ 0x1009a9400] Missing reference picture, default is 65580
+[h264 @ 0x1009a9400] Missing reference picture, default is 65580
+[h264 @ 0x1008a0400] mmco: unref short failure
+[h264 @ 0x1008a0400] Missing reference picture, default is 65580
+[h264 @ 0x1020a9000] Missing reference picture, default is 65580
+[h264 @ 0x100889800] Missing reference picture, default is 65586
+[h264 @ 0x100889800] Missing reference picture, default is 65586
+[h264 @ 0x1009a9400] Missing reference picture, default is 65586
+[h264 @ 0x1009a9400] Missing reference picture, default is 65586
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] Missing reference picture, default is 65586
+[h264 @ 0x1008a0400] Missing reference picture, default is 65586
+[h264 @ 0x1008a0400] Missing reference picture, default is 65586
+[h264 @ 0x1020a9000] Missing reference picture, default is 65592
+[h264 @ 0x1020a9000] Missing reference picture, default is 65592
+[h264 @ 0x100889800] mmco: unref short failure
+[h264 @ 0x1009a9400] Missing reference picture, default is 65596
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] Missing reference picture, default is 65596
+[h264 @ 0x1008a0400] Missing reference picture, default is 65596
+[h264 @ 0x1020a9000] Missing reference picture, default is 65600
+[h264 @ 0x100889800] mmco: unref short failure
+[h264 @ 0x1008a0400] reference picture missing during reorder
+[h264 @ 0x1008a0400] Missing reference picture, default is 65604
+[h264 @ 0x100889800] mmco: unref short failure
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001020ebab8] mpgatofixed32 audio converter error: libmad error: bad main_data_begin pointer
+[00000001020ebab8] mpgatofixed32 audio converter error: libmad error: bad main_data_begin pointer
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100208688] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100323748] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100607378] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010070ddc8] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100235988] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100255478] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Speaking failed: -128
+[0000000100706d58] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010064a4e8] core playlist: stopping playback
+[00000001008c30b8] dts decoder: DTS channels:6 samplerate:48000 bitrate:1536000
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Stream with high frequencies VQ coding
+[000000010070db48] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[000000010023f628] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[000000010022ca88] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100237a88] core playlist: stopping playback
+[00000001020064b8] dts decoder: DTS channels:6 samplerate:48000 bitrate:1536000
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+Stream with high frequencies VQ coding
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[00000001048a80b8] mpgatofixed32 audio converter error: libmad error: bad main_data_begin pointer
+[00000001048a80b8] mpgatofixed32 audio converter error: libmad error: bad main_data_begin pointer
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100705718] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100214f98] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100522fa8] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100602b68] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+
+[0000000100505958] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+libdvdnav: Using dvdnav version 5.0.3
+libdvdread: Couldn't find device name.
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdread:DVDOpenFilePath:findDVDFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[0000000100543d18] core playlist: stopping playback
+shader program 1: WARNING: Output of vertex shader 'TexCoord1' not read by fragment shader
+WARNING: Output of vertex shader 'TexCoord2' not read by fragment shader
+

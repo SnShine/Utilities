@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.mine.mac-notifier.scheduler</string>
+    <key>ProgramArguments</key>
+    <array>
+        <!-- # need to give full path to commands as launchd doen't include your $PATH -->
+        <string>/Users/SnShines/anaconda2/bin/python</string>
+        <string>/Users/SnShines/Documents/GitHub/Utilities/Mac-Notifier/notify.py</string>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/SnShines/Documents/GitHub/Utilities/Mac-Notifier/out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/SnShines/Documents/GitHub/Utilities/Mac-Notifier/err.log</string>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
