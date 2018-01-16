@@ -1,7 +1,7 @@
 import boto3
 
 
-client = boto3.client('ec2', aws_access_key_id="AKIAJ52YWQLZ3HGNQM5A", aws_secret_access_key="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", region_name="us-east-1")
+client = boto3.client('ec2', aws_access_key_id="access_key", aws_secret_access_key="secret_key", region_name="us-east-1")
 
 try:
     region_instance_status = client.describe_instance_status()
